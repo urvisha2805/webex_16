@@ -1,0 +1,57 @@
+/*--------------------------------------------------------------
+# Sections General
+--------------------------------------------------------------*/
+#counts_2 {
+	padding: 60px 0;
+}
+  
+/*--------------------------------------------------------------
+# Counts
+--------------------------------------------------------------*/
+.s_count_3 {
+	padding: 0 0 30px 0;
+}
+
+.s_count_3 .count-box {
+	padding: 30px;
+	width: 100%;
+}
+
+.s_count_3 .count-box i {
+	display: block;
+	font-size: 44px;
+	color: #5c9f24;
+	float: left;
+	line-height: 0;
+}
+
+.s_count_3 .count-box span {
+	font-size: 48px;
+	line-height: 40px;
+	display: block;
+	font-weight: 700;
+	color: #2a2a2a;
+	margin-left: 60px;
+}
+
+.s_count_3 .count-box p {
+	padding: 15px 0 0 0;
+	margin: 0 0 0 60px;
+	font-family: "Roboto", sans-serif;
+	font-size: 14px;
+	color: #505050;
+}
+
+.s_count_3 .count-box a {
+	font-weight: 600;
+	display: block;
+	margin-top: 20px;
+	color: #505050;
+	font-size: 15px;
+	font-family: "Poppins", sans-serif;
+	transition: ease-in-out 0.3s;
+}
+
+.s_count_3 .count-box a:hover {
+	color: #777777;
+}

@@ -1,0 +1,33 @@
+.s_count_8 {
+	background: #fff;
+	padding: 40px;
+	margin-bottom: 30px;
+}
+
+.s_count_8 h2 {
+	font-size: 1.125em;
+	font-weight: 600;
+	letter-spacing: 2px;
+	margin-bottom: 20px;
+}
+
+.s_count_8 p {
+	line-height: 25px;
+	font-size: 14px;
+	font-weight: 300;
+}
+
+.s_count_8 {
+	text-align: center;
+}
+
+.s_count_8 h2 {
+	font-size: 48px;
+	font-weight: 600;
+}
+
+.s_count_8 p {
+	font-size: 24px;
+	font-weight: 100;
+	color: #a387ff;
+}
